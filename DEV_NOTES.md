@@ -24,3 +24,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-06
 - Resolved TODO items from previous session
 - Reviewed security headers configuration
+
+## 2026-04-06
+- Tidied up project structure
+- Updated license year
+- Reviewed security headers configuration
