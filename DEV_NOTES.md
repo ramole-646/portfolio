@@ -29,3 +29,6 @@ Personal development log — notes, findings, and ongoing work.
 - Tidied up project structure
 - Updated license year
 - Reviewed security headers configuration
+
+## 2026-04-13
+- Checked for memory leaks in long-running path
